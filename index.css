@@ -95,10 +95,10 @@ header {
        
     }
 
-    .Shop {
-        /* flex-direction: column; */
+    /* .Shop {
+        flex-direction: column;
 
-    }
+    } */
 #About{
     flex-direction: column;
 }
